@@ -21,4 +21,4 @@ total = car + rent + jet + gifts + food + staff + guru + games
 
 print("\nОбщая сумма:", total)
 
-print("\n\nНажмите Enter, чтобы выйти.")
+input("\n\nНажмите Enter, чтобы выйти.")
